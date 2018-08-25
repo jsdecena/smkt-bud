@@ -1,0 +1,8 @@
+{
+  "name": "smkt-bud",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "dd857e10"
+}
